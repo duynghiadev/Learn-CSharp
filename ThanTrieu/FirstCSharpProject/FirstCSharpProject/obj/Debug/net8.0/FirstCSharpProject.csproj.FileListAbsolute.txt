@@ -1,0 +1,14 @@
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\bin\Debug\net8.0\FirstCSharpProject.exe
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\bin\Debug\net8.0\FirstCSharpProject.deps.json
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\bin\Debug\net8.0\FirstCSharpProject.runtimeconfig.json
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\bin\Debug\net8.0\FirstCSharpProject.dll
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\bin\Debug\net8.0\FirstCSharpProject.pdb
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.AssemblyInfoInputs.cache
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.AssemblyInfo.cs
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.csproj.CoreCompileInputs.cache
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.dll
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\refint\FirstCSharpProject.dll
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.pdb
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\FirstCSharpProject.genruntimeconfig.cache
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\FirstCSharpProject\FirstCSharpProject\obj\Debug\net8.0\ref\FirstCSharpProject.dll
