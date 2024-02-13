@@ -1,0 +1,7 @@
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\bin\Debug\FirstApp.exe.config
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\bin\Debug\FirstApp.exe
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\bin\Debug\FirstApp.pdb
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\obj\Debug\FirstApp.csproj.AssemblyReference.cache
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\obj\Debug\FirstApp.csproj.CoreCompileInputs.cache
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\obj\Debug\FirstApp.exe
+E:\study code\Study Code Project Youtube\Lean-CSharp\ThanTrieu\LearnCSharp\FirstApp\obj\Debug\FirstApp.pdb
