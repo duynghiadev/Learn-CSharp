@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slide5", "slide5.csproj", "{9AFD28D1-5280-49B9-87B8-D240626591FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slide5-baotapvd", "..\slide5-baotapvd\slide5-baotapvd.csproj", "{C46FC590-D99F-438F-B56B-B8749F3B1193}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AFD28D1-5280-49B9-87B8-D240626591FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AFD28D1-5280-49B9-87B8-D240626591FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AFD28D1-5280-49B9-87B8-D240626591FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AFD28D1-5280-49B9-87B8-D240626591FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C46FC590-D99F-438F-B56B-B8749F3B1193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C46FC590-D99F-438F-B56B-B8749F3B1193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C46FC590-D99F-438F-B56B-B8749F3B1193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C46FC590-D99F-438F-B56B-B8749F3B1193}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AA33927-48B0-4FCE-BB5C-E256F8786A08}
+	EndGlobalSection
+EndGlobal

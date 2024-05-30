@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai16", "bai16.csproj", "{EC87E619-AC6C-4CFA-A088-C58791D7ABE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bai16-viduvandung", "..\bai16-viduvandung\bai16-viduvandung.csproj", "{EBCA9483-C132-4FEE-A267-83C1BE9A02C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC87E619-AC6C-4CFA-A088-C58791D7ABE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC87E619-AC6C-4CFA-A088-C58791D7ABE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC87E619-AC6C-4CFA-A088-C58791D7ABE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC87E619-AC6C-4CFA-A088-C58791D7ABE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCA9483-C132-4FEE-A267-83C1BE9A02C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCA9483-C132-4FEE-A267-83C1BE9A02C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCA9483-C132-4FEE-A267-83C1BE9A02C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCA9483-C132-4FEE-A267-83C1BE9A02C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26882050-BB17-48C8-8D44-01FDD0115EE3}
+	EndGlobalSection
+EndGlobal
